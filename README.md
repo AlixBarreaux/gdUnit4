@@ -6,6 +6,16 @@
 </p>
 <h2 align="center">A Godot Embedded Unit Testing Framework</h2>
 
+---
+
+<p align="center">
+  <a href="https://www.patreon.com/cw/GodotGdUnitLabs">
+    <img src="assets/patreon-banner.svg" alt="Stay Connected &amp; Updated — Follow on Patreon" width="100%"/>
+  </a>
+</p>
+
+---
+
 <h1 align="center">Supported Godot Versions</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Godot-v4.3-%23478cbf?logo=godot-engine&logoColor=cyian&color=green" alt="">
